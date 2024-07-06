@@ -183,3 +183,23 @@ continue (y/n): y
 ✅ txID: poGnxYiLZAruurNjugTPfN1JjwSZzGZdZnBEezp5HB98PhKcn
 ``
 
+### Advantages
+
+**Quick Setup**: The provided script allows for rapid deployment, minimizing setup time.
+
+**Pre-configured Key**: The inclusion of a default private key simplifies initial transactions and testing.
+
+**Ease of Use**: `token-cli` simplifies interaction with the TokenVM, making it accessible even for those with limited experience.
+
+**Efficient Building**: The build script streamlines the compilation process.
+
+**Automated Chain Import**: The `chain import-anr` command automates the process of connecting to the Avalanche Network Runner server and retrieving URIs, reducing manual configuration.
+
+**Comprehensive Tools**: The setup includes both creation and interaction tools, providing a complete suite for asset management and trading.
+
+**User-friendly Commands**: The CLI commands are straightforward, making it easy for users to follow along and execute tasks.
+
+**Real-time Monitoring**: The ability to watch activity in real-time helps users understand on-chain events and debug issues quickly.
+
+**Versatile Testing Environment**: The option to run with a single subnet or multiple subnets provides flexibility depending on testing requirements.
+
