@@ -2,7 +2,7 @@
 
 The HyperSDK provides the ability to create a custom virtual machine, which offers complete control over a custom blockchain. With the HyperSDK, you can design a blockchain that perfectly suits your needs, such as creating and transferring tokens or implementing a traditional order book for asset trading. This level of customization provides a powerful tool for businesses and organizations seeking a tailored solution.
 
-[https://github.com/ava-labs/hypersdk/blob/main/assets/logo.png](https://github.com/ava-labs/hypersdk/raw/main/assets/logo.png)
+<img src="https://github.com/ava-labs/hypersdk/blob/main/assets/logo.png">
 
 By using the HyperSDK, you have full control over the rules and functionality of your chain, allowing you to create a custom blockchain that is tailored to your startup's specific needs. This offers an unparalleled level of control and flexibility, making it a valuable tool for organizations seeking a custom solution.
 
